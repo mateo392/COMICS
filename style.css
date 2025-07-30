@@ -4,9 +4,5 @@ h1 {
   font-weight: action comic;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  padding: 25px;
 }
-
-div {
-    margin: 10px;
-}
-
